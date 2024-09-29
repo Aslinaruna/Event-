@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Events</title>
+    <link rel="icon" href="img/date.png">
+</head>
+
+<body bgcolor="black" style="color:white;">
+<center>
+<h1> Upcoming Events 📅</h1>
+<p> Don't miss and of your importent. Here are the important events your have registered for!</p>
+</center>
+<hr>
+<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium dolorum cupiditate dignissimos earum ducimus eveniet harum, quo sit repellat tenetur. Maxime nemo corporis illum et aut? Soluta expedita deserunt, repellat cum tempore autem non. Laudantium, itaque libero. Dicta nulla incidunt quisquam animi! Quaerat labore numquam ut nobis accusantium debitis voluptate facere reprehenderit animi, voluptatum dolor a eos distinctio, officia nisi vitae beatae cum ad deserunt et asperiores tempora! Magnam vitae officiis sint optio repudiandae fuga iusto rerum, odio officia numquam delectus corporis earum eveniet eum, ducimus dicta dolores. Quam hic, enim laboriosam quae ducimus eaque illo recusandae vero sit asperiores.</p>
+<center>
+<img src="img/event1.png">
+</center>
+<center>
+<h1>Photo Gallery Event</h1>
+<h2>Free Enter|Free Food|Pets are Not Allowed</h2>
+<p>The standared chunk of lorem lpsum used since the 1500s is reproduced below for those section 1.10.32 and 1.10.35 form "de Finibus Bonorum at Maloram" by cicero are also kreproduced in their exact original form, iaccompained by English versions form the 1914 transtation by H.Rackham</p>
+</center>
+<center>
+<img src="img/event2.png">
+<h1>
+    <a href="https://www.myntra.com/?utm_source=dms_google&utm_medium=searchbrand_cpc&utm_campaign=dms_google_searchbrand_cpc_Search_Brand_Myntra_Brand_India_BM_TROAS_SOK_New&gclid=Cj0KCQiAhc-sBhCEARIsAOVwHuRM5zAFJDH7tQLnjRNoEuM3nFnpFC-O_vcR6omZ1lXI2eP6hG93zd4aAncpEALw_wcB">Fasion Store</a>
+</h1>
+<h2>Free Enter|Free Food|Pets are Not Allowed</h2>
+<p>The standared chunk of lorem lpsum used since the 1500s is reproduced below for those section 1.10.32 and 1.10.35 form "de Finibus Bonorum at Maloram" by cicero are also kreproduced in their exact original form, iaccompained by English versions form the 1914 transtation by H.Rackham</p>
+</center>
+<hr>
+<center>
+    <h1>Contact</h1>
+    <h3>+91 7874837834|eventcollab@gmail.com</h3>
+    <h4>9th street,Hvenue Park</h4>
+    <h4>Trichy,625620</h4>
+</center>
+</body>
+
+</html>
